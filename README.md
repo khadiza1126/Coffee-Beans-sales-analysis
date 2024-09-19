@@ -24,8 +24,7 @@ The Power BI report consists of several key pages:
 #### b. Product Analysis
 - Displays the top-selling products by revenue , Coffee types and roast types by sales and GM%AND Details of top 20 salling produtcs.
 - Includes a breakdown of product categories and types, using DAX to rank products by sales volume and profit.
-- **Screenshot:** ![Product Analysis]((https://github.com/user-attachments/assets/21e0226a-2622-4b7d-ba78-0475dd785110)
-)
+- **Screenshot:** ![Product Analysis]((![Screenshot 2024-09-19 071927](https://github.com/user-attachments/assets/dd8695e9-c383-48f1-9069-52147fd576ea)))
 
 #### c. Customer Analysis
 - Segments customers based on total purchases, customer lifetime value (CLV) by year,customer by loyalty card, top customer based on purchase and their dealits report and returning customer by loyalty card.
@@ -36,13 +35,14 @@ The Power BI report consists of several key pages:
 #### d. Regional Performance
 - A geographic map visualization showing total revenue across regions,Total sales by country,top 10 city based on sales and customer based on country.
 - Includes filters for regional comparison and sales trends by area.
-- **Screenshot:** ![Regional Performance](path_to_regional_performance_screenshot)
+- **Screenshot:** ![Regional Performance](![Screenshot 2024-09-18 212604](https://github.com/user-attachments/assets/286ebeb2-27ff-4c6e-bd6b-600e6eda6c13))
+  
 
 #### e. Annual Performance
 - A decompostion tree visualization of revenue over year, quater, month and products and retained customer over years and quater.
 - Utilizes DAX calculations to compare yearly data and highlight growth trends.
-- **Screenshot:** ![Annual Performance](![Screenshot 2024-09-18 205229](https://github.com/user-attachments/assets/286ebeb2-27ff-4c6e-bd6b-600e6eda6c13)
-)
+- **Screenshot:** ![Annual Performance](![Screenshot 2024-09-18 212604](https://github.com/user-attachments/assets/fdf528a1-48b0-442d-a642-7baec113f8c5))
+
 
 ### 3. DAX Calculations
 
