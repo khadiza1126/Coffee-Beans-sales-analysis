@@ -18,8 +18,8 @@ The Power BI report consists of several key pages:
 #### a. Sales Overview
 - A summary of total sales, profit, and year-over-year sales growth,total sale by coffee type and roast typetotal sale and profit over years.
 - Implemented dynamic DAX measures to calculate total sales, Gross margins, and Average order value(AOV).
-- **Screenshot:** ![Sales Overview]((https://github.com/user-attachments/assets/983e16cc-c0bd-420c-976e-55bbe7a98466)
-)
+- **Screenshot:** ![Sales Overview]((![Screenshot 2024-09-18 204256](https://github.com/user-attachments/assets/3ef775d1-0da0-4f7c-a41a-2429ffabc116)
+))
 
 #### b. Product Analysis
 - Displays the top-selling products by revenue , Coffee types and roast types by sales and GM%AND Details of top 20 salling produtcs.
